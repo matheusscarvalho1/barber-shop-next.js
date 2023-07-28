@@ -1,6 +1,6 @@
 ## Sobre
 
-Cópia de um projeto antigo em HTML (Disponível também no meu repositório) https://github.com/matheusscarvalho1/Barber-Shop - Feito em Next.js
+Projeto feito em Next.js baseado em um antigo projeto feito por mim quando estava aprimorando meus conhecimentos em HTML/CSS (Disponível também no meu repositório - https://github.com/matheusscarvalho1/Barber-Shop) 
 
 
 
