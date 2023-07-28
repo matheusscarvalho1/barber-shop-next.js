@@ -1,5 +1,8 @@
 ## Sobre
 
+Cópia de um projeto antigo em HTML (Disponível também no meu repositório) https://github.com/matheusscarvalho1/Barber-Shop - Feito em Next.js
+
+
 
 ## Tecnologias
 
